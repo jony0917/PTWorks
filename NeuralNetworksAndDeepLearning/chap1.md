@@ -862,7 +862,9 @@ def vectorized_result(j):
 
 
 我们回到开始的问题，假设我们想要判断一张照片是否为人脸：
-![](./chap1/File_Albert_Einstein_at_the_age_of_three_(1882).png)
+![](./chap1/Kangaroo_ST_03.JPG)
+![](./chap1/Albert_Einstein_at_the_age_of_three_(1882).jpg)
+![](./chap1/The_Hubble_eXtreme_Deep_Field.jpg)
 
 我们可以通过数字识别类似的办法：把图片的像素作为网络的输入，输出一个值表示是或则否。
 
